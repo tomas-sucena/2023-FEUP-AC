@@ -1,3 +1,6 @@
 # CLion
 .idea/
-cmake-list-debug/
+cmake-build-debug/
+
+# RARS
+rars1_6.jar
