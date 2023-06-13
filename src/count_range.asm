@@ -2,7 +2,7 @@
 .global count_range
 
 count_range:
-mv t0, zero
+mv t0, zero # counter
 
 .L1:
 beqz a1, .end
